@@ -81,7 +81,7 @@ param appGwRoutes array = [
     name: 'appGwRoute'
     addressPrefix: appGwSubnetAddressPrefix
     hasBgpOverride: false
-    nextHopIpAddress: '172.0.100.4'
+    nextHopIpAddress: '10.0.100.68'
     nextHopType: 'VirtualAppliance'
   }
 ]
