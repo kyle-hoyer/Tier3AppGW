@@ -70,7 +70,7 @@ param aseRoutes array = [
     name: 'aseRoute'
     addressPrefix: aseSubnetAddressPrefix
     hasBgpOverride: false
-    nextHopIpAddress: '172.0.100.4' 
+    nextHopIpAddress: '10.0.100.68' 
     nextHopType: 'VirtualAppliance'
   }
 ]
